@@ -1,0 +1,1 @@
+python .\CS3243_P2_Sudoku_XX.py .\public_tests_p2_sudoku\input2.txt .\output_two.txt

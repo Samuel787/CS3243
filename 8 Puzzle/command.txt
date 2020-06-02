@@ -1,0 +1,1 @@
+python .\CS3243_P1_XX_Y.py .\public_tests_p1\n_equals_3\input_1.txt .\output.txt
